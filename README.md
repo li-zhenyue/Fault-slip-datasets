@@ -5,7 +5,9 @@ The AVB and TYM datasets provided in this repository were extracted from Table A
 The data are provided in terms of:
 
 Strike — fault strike
+
 Dip — dip angle
+
 Rake — rake angle of the slip lineation
 
 
